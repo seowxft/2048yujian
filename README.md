@@ -8,7 +8,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 ## Screenshot
 
 <p align="center">
-  <img src="http://seowxft.github.io/2048yujian/style/2048screenshot.png" alt="Screenshot"/>
+  <img src="http://seowxft.github.io/2048yujian/style/2048screenshot-size.png" alt="Screenshot"/>
 </p>
 
 ## License
