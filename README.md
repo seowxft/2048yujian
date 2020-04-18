@@ -1,7 +1,7 @@
 # 2048 张雨剑
-Modified from a fork of [Gabriele Cirulli's 2048](https://github.com/gabrielecirulli/2048), which was a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024) based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
-
 [Play it here!](http://seowxft.github.io/2048yujian/)
+
+Modified from a fork of [Gabriele Cirulli's 2048](https://github.com/gabrielecirulli/2048), which was a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024) based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 [Play the original version here!](http://gabrielecirulli.github.io/2048/)
 
