@@ -15,3 +15,4 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 ## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+Tile images © [Tricia Seow] (https://github.com/seowxft). I <strong>DO NOT</strong> allow personal use, reposts or reprints of these images. 请勿对我的作品复制、转载或进行二次创作、谢谢。
