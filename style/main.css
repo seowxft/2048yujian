@@ -365,6 +365,7 @@ hr {
   }
   .tile.tile-64 .tile-inner {
     /* color: #f9f6f2; */
+    background-image: url(6.png);
     background-size: 107px 107px;
     font-size: 0px;
     /* background: #f65e3b;  */
